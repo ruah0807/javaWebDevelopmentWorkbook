@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db3c83bc-f6ff-4d80-943b-0010c09b4574" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="b01" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="b01" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="b01" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="b01" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2bNiJhLT6cArR3je6Kow5zPiclH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.main.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Gradle.b01 [clean].executor": "Run",
+    "Gradle.b01 [compileJava].executor": "Run",
+    "JUnit.BoardRepositoryTests.executor": "Run",
+    "JUnit.BoardRepositoryTests.testInsert.executor": "Run",
+    "JUnit.BoardRepositoryTests.testSearch1.executor": "Run",
+    "JUnit.BoardRepositoryTests.testSearchAll.executor": "Run",
+    "JUnit.BoardRepositoryTests.testSearchAll2.executor": "Run",
+    "JUnit.BoardServiceTests.testList.executor": "Run",
+    "JUnit.BoardServiceTests.testModify.executor": "Run",
+    "JUnit.BoardServiceTests.testRegister.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.B01Application.executor": "Run",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/hi/IdeaProjects/b01",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mariadb"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hi\IdeaProjects\b01\src\main\java\org\zerock\b01\domain" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hi\IdeaProjects\b01\build\generated\sources\annotationProcessor\java\main\org\zerock\b01\domain" />
+      <recent name="C:\Users\hi\IdeaProjects\b01\build\classes\java\main\org\zerock\b01\domain" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.zerock.b01.B01Application" />
+      <module name="b01.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoardRepositoryTests.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="b01.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.zerock.b01.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.zerock.b01.repository" />
+      <option name="MAIN_CLASS_NAME" value="org.zerock.b01.repository.BoardRepositoryTests" />
+      <option name="METHOD_NAME" value="testInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="org.zerock.b01.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.zerock.b01.B01Application" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.main" />
+      <item itemvalue="JUnit.BoardRepositoryTests.testInsert" />
+      <item itemvalue="Spring Boot.B01Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BoardRepositoryTests.testInsert" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.21-corretto-11.0.21-f644763e9732-97de7592" />
+        <option value="jdk-11.0.22-corretto-11.0.22-f644763e9732-4a89cc43" />
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+        <option value="jdk-21.0.1-corretto-21.0.1-f644763e9732-eed86825" />
+        <option value="jdk-21.0.2-corretto-21.0.2-f644763e9732-54352fe9" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db3c83bc-f6ff-4d80-943b-0010c09b4574" name="Changes" comment="" />
+      <created>1706061867747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706061867747</updated>
+      <workItem from="1706061868799" duration="189000" />
+      <workItem from="1706062103616" duration="2182000" />
+      <workItem from="1706064300185" duration="1911000" />
+      <workItem from="1706066226596" duration="659000" />
+      <workItem from="1706066953951" duration="846000" />
+      <workItem from="1706067817900" duration="634000" />
+      <workItem from="1706068468957" duration="11042000" />
+      <workItem from="1706142846445" duration="8874000" />
+      <workItem from="1706151792217" duration="886000" />
+      <workItem from="1706152692774" duration="87000" />
+      <workItem from="1706152814305" duration="869000" />
+      <workItem from="1706153698797" duration="89000" />
+      <workItem from="1706153935686" duration="218000" />
+      <workItem from="1706154166429" duration="15000" />
+      <workItem from="1706154407798" duration="410000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
